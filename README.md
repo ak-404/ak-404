@@ -2,9 +2,6 @@
 
 I'm a passionate and self-taught Full-Stack Developer with a strong focus on Web Development. Currently, I'm diving into the exciting world of Mobile Development, aiming to expand my skills and create seamless multi-platform applications. My goal is to leverage my expertise to build innovative and user-friendly software solutions.
 
-### 🔭 Current Projects
-- **Social Media App**: Developing a feature-rich social media application with real-time updates and interactive UI.
-
 ### 🌱 Currently Learning
 - Mobile Development: Exploring frameworks like React Native and Flutter to build cross-platform mobile apps.
 
